@@ -9,7 +9,7 @@ h2{
     display:grid;
     height:97vh;
     grid-template-columns: 1fr;
-        grid-template-rows: 0.4fr 1fr 0.5fr 0.3fr 0.3fr 0.3fr 1fr 1fr;
+        grid-template-rows: 0.4fr 1fr 0.5fr 0.3fr 0.3fr 0.3fr 0.3fr 1fr 1fr;
         grid-template-areas: 
             "nav"
             "main"
