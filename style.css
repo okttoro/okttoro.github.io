@@ -18,6 +18,7 @@ h2{
             "content1"
             "content2"
             "content3"
+	    "content4"
             "footer";
     grid-gap: 0.7rem;
     font-family: 'Poppins', sans-serif;
@@ -76,6 +77,13 @@ main{
 #content3{
     background: transparent;
     grid-area: content3;
+    border-radius: var(--main-radius);
+    margin-bottom: 0;
+}
+
+#content4{
+    background: transparent;
+    grid-area: content4;
     border-radius: var(--main-radius);
     margin-bottom: 0;
 }
