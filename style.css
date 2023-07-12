@@ -568,6 +568,12 @@ nav img{
     width: 100%;
 }
 
+.titleacc4{
+    padding: 5px 50px 5px 3px;
+    display: flex;
+    width: 100%;
+}
+
 .titleacc .fa{
     padding-right: 13px;
 }
