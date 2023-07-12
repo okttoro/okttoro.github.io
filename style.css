@@ -503,6 +503,9 @@ nav img{
     #content3 .hero-btnvv h2{
         font-size: 11px;
     }
+    #content4 .hero-btnvv h2{
+        font-size: 11px;
+    }
     
     #sidebar .btn-cardv .card-content h2 span{
     padding-bottom: 7.5px;
@@ -516,6 +519,9 @@ nav img{
     #content3 .btn-cardv .card-content h2 span{
     padding-bottom: 7.5px;
     }
+    #content4 .btn-cardv .card-content h2 span{
+    padding-bottom: 7.5px;
+    }
     
     #sidebar .btn-cardv .card-content .fa{
     padding-top: 2.5px;
@@ -527,6 +533,9 @@ nav img{
     padding-top: 2.5px;
     }
     #content3 .btn-cardv .card-content .fa{
+    padding-top: 2.5px;
+    }
+    #content4 .btn-cardv .card-content .fa{
     padding-top: 2.5px;
     }
 }
